@@ -3,7 +3,7 @@ module.exports = {
     name: "edit",
     aliases: ["e"],
     role: 0,
-    author: "BADHON",
+    author: "ChatGpt",
     countDown: 5,
     longDescription: "",
     category: "image",
