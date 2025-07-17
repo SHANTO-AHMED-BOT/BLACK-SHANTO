@@ -4,7 +4,7 @@ const fs = require("fs");
 
 module.exports = {
     config: {
-        name: " propose",
+        name: "propose",
         aliases: ["pps"],
         version: "1.0",
         author: "shanto",
